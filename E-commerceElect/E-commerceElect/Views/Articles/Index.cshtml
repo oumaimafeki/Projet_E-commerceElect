@@ -1,0 +1,112 @@
+﻿@model IEnumerable<E_commerceElect.Models.Article>
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> SignInManager
+@{
+    ViewBag.Title = "Liste des articles";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <form asp-action="Search" asp-controller="Articles" class="mb-3">
+            <div class="input-group">
+                <input class="form-control" name="term" type="search" placeholder="Search" aria-label="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </div>
+        </form>
+
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Filtrer par catégorie :</h5>
+                <select id="categorieSelect" class="form-control">
+                    <option value="">Toutes les catégories</option>
+                    @if (ViewBag.Categories != null)
+                    {
+                        foreach (var category in ViewBag.Categories)
+                        {
+                            <option value="@category.Value">@category.Text</option>
+                        }
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Filtrer par prix :</h5>
+                <select id="prixSelect" class="form-control">
+                    <option value="">Tous les prix</option>
+                    <option value="0-50">inférieur à 500Dt</option>
+                    <option value="50-100">500Dt - 1500Dt</option>
+                    <option value="100-200">1500Dt et plus</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-9">
+        <div class="row">
+            @foreach (var article in Model)
+            {
+                var photoPath = "~/images/" + (article.ImageUrl ?? "noimage.jpg");
+                <div class="col-md-4">
+                    <div class="card mb-3">
+                        <img class="card-img-top imageThumbnail" src="@photoPath" asp-append-version="true" />
+                        <div class="card-body">
+                            <h5 class="card-title">@article.Nom</h5>
+                            <p class="card-text">@article.Description</p>
+                            <p class="card-text"><small class="text-muted">Prix: @article.Prix</small></p>
+                        </div>
+                        <div class="card-footer">
+                            <a asp-action="Details" asp-controller="Articles" asp-route-id="@article.Id" class="btn btn-outline-primary"><i class="fa-solid fa-eye"></i></a>
+                            <br />                            <br />
+
+                            <form asp-action="AjouterAuPanier" asp-controller="Paniers" method="post">
+                                <input type="hidden" name="articleId" value="@article.Id" />
+                                <button type="submit" class="btn btn-outline-warning"><i class="fa-solid fa-cart-plus"></i></button>
+                            </form>
+                            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                            {
+                                <a asp-action="Edit" asp-controller="Articles" asp-route-id="@article.Id" class="btn btn-outline-success"><i class="fa-solid fa-pen-to-square"></i></a>
+                                <a asp-action="Delete" asp-controller="Articles" asp-route-id="@article.Id" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i></a> <br /> <br />
+                                
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#categorieSelect').change(function () {
+                var categorieId = $(this).val();
+                if (categorieId) {
+                    window.location.href = '/Articles/Index?categorieId=' + categorieId;
+                } else {
+                    window.location.href = '/Articles/Index';
+                }
+            });
+
+            $('#prixSelect').change(function () {
+                var selectedPriceRange = $(this).val();
+                var categorieId = $('#categorieSelect').val();
+                var url = '/Articles/Index?';
+
+                if (categorieId) {
+                    url += 'categorieId=' + categorieId + '&';
+                }
+
+                if (selectedPriceRange) {
+                    url += 'priceRange=' + selectedPriceRange;
+                }
+
+                window.location.href = url;
+            });
+        });
+    </script>
+}

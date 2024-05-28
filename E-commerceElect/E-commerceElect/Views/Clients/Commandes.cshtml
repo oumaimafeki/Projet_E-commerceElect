@@ -1,0 +1,19 @@
+﻿@model IEnumerable<E_commerceElect.Models.Commande>
+
+<h2>Commandes de @ViewBag.UserName</h2>
+<ul>
+    @foreach (var commande in Model)
+    {
+        <li>
+            <a asp-action="Articles" asp-route-id="@commande.Id">Commande @commande.Id - @commande.DateCommande.ToShortDateString()</a>
+            - @if (commande.EstReglee==1)
+            {
+                <span style="color: green;">Payé</span>
+            }
+            else
+            {
+                <span style="color: red;">Non payé</span>
+            }
+        </li>
+    }
+</ul>

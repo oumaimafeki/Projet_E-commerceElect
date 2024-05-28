@@ -1,0 +1,20 @@
+﻿@model IEnumerable<dynamic>
+
+<h2>Articles les Plus Vendus</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nom de l'Article</th>
+            <th>Quantité Vendue</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var article in Model)
+        {
+            <tr>
+                <td>@article.Nom</td>
+                <td>@article.TotalQuantite</td>
+            </tr>
+        }
+    </tbody>
+</table>

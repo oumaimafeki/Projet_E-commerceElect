@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>
+
+<h2>Liste des clients</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nom d'utilisateur</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.UserName</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

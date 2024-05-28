@@ -1,0 +1,1019 @@
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.Development.json
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.json
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.staticwebassets.runtime.json
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.exe
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.deps.json
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.runtimeconfig.json
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.pdb
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Core.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Identity.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Humanizer.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.CodeDom.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Memory.Data.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.AssemblyReference.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfoInputs.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfo.cs
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CoreCompileInputs.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.MvcApplicationPartsAssemblyInfo.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cs
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.E-commerceElect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerceElect.props
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerceElect.props
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerceElect.props
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.build.json
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.development.json
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\bundle\E-commerceElect.styles.css
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\projectbundle\E-commerceElect.bundle.scp.css
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CopyComplete
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.dll
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\refint\E-commerceElect.dll
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.pdb
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.genruntimeconfig.cache
+C:\.net\E-commerceElect\E-commerceElect\obj\Debug\net7.0\ref\E-commerceElect.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Common.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.AssemblyReference.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfoInputs.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfo.cs
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CoreCompileInputs.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cs
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\refint\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.pdb
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.staticwebassets.runtime.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.exe
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.deps.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.runtimeconfig.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.pdb
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.E-commerceElect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\bundle\E-commerceElect.styles.css
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\projectbundle\E-commerceElect.bundle.scp.css
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CopyComplete
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.genruntimeconfig.cache
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\obj\Debug\net7.0\ref\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.net\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Stripe.net.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.Development.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.staticwebassets.runtime.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.exe
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.deps.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.runtimeconfig.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.pdb
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Core.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Identity.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Humanizer.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Common.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Stripe.net.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.CodeDom.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Memory.Data.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.AssemblyReference.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfoInputs.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfo.cs
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CoreCompileInputs.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.MvcApplicationPartsAssemblyInfo.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cs
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.E-commerceElect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerceElect.props
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerceElect.props
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerceElect.props
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.build.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.development.json
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\bundle\E-commerceElect.styles.css
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\projectbundle\E-commerceElect.bundle.scp.css
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CopyComplete
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\refint\E-commerceElect.dll
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.pdb
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.genruntimeconfig.cache
+C:\.net\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\ref\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\appsettings.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.staticwebassets.runtime.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.exe
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.deps.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.runtimeconfig.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\E-commerceElect.pdb
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.AssemblyReference.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfoInputs.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.AssemblyInfo.cs
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CoreCompileInputs.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.RazorAssemblyInfo.cs
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.E-commerceElect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerceElect.props
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\bundle\E-commerceElect.styles.css
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\scopedcss\projectbundle\E-commerceElect.bundle.scp.css
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.csproj.CopyComplete
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\refint\E-commerceElect.dll
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.pdb
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\E-commerceElect.genruntimeconfig.cache
+C:\Users\fekio\source\repos\E-commerceElect (3)\E-commerceElect\E-commerceElect\obj\Debug\net7.0\ref\E-commerceElect.dll

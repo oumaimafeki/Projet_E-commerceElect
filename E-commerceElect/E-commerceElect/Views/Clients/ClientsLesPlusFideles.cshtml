@@ -1,0 +1,22 @@
+﻿@model List<E_commerceElect.Models.ViewModels.ClientFideleViewModel>
+
+<h2>Clients les plus fidèles</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Utilisateur</th>
+            <th>Montant total des achats</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.UserName</td>
+                <td>@client.TotalAchats</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<E_commerceElect.Models.Commande>
+
+<h2>Commandes Non Réglées</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID de la Commande</th>
+            <th>Date de la Commande</th>
+            <th>Statut</th>
+            <th>Détails</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var commande in Model)
+        {
+            <tr>
+                <td>@commande.Id</td>
+                <td>@commande.DateCommande.ToShortDateString()</td>
+                <td><span style="color: red;">Non payé</span></td>
+                <td>
+                    <a asp-action="Articles" asp-route-id="@commande.Id" class="btn btn-outline-primary"><i class="fa-solid fa-eye"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

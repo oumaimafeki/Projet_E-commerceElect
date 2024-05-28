@@ -1,0 +1,35 @@
+﻿@model IEnumerable<E_commerceElect.Models.Categorie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of categories</h1>
+
+<p>
+    <a asp-action="Create"><i class="fa-solid fa-plus">Add</i></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-controller="Categories" asp-route-id="@item.Id"><i class="fa-solid fa-pen"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.Id"><i class="fa-solid fa-caret-down"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

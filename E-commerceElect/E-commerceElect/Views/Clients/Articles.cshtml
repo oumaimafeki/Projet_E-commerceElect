@@ -1,0 +1,11 @@
+﻿@model IEnumerable<E_commerceElect.Models.LigneCommande>
+
+<h2>Articles de la commande @ViewBag.CommandeId</h2>
+<ul>
+    @foreach (var ligneCommande in Model)
+    {
+        <li>
+            Article: @ligneCommande.Article.Nom - Quantité: @ligneCommande.Quantite - Prix: @ligneCommande.PrixUnitaire
+        </li>
+    }
+</ul>

@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Confirmation de Paiement";
+}
+
+<h2>Confirmation de Paiement</h2>
+<p>Montant: @ViewBag.Montant</p>
+
+<form id="payment-form">
+    <div id="card-element"><!-- Elements will create input elements here --></div>
+    <button id="submit" class="btn btn-outline-primary">Payer</button>
+</form>
+
+<script src="https://js.stripe.com/v3/"></script>
+<script>
+    var stripe = Stripe('@ViewBag.PublishableKey');
+    var elements = stripe.elements();
+    var cardElement = elements.create('card');
+    cardElement.mount('#card-element');
+
+    var form = document.getElementById('payment-form');
+    var clientSecret = '@ViewBag.ClientSecret';
+
+    form.addEventListener('submit', async (event) => {
+        event.preventDefault();
+
+        const { paymentIntent, error } = await stripe.confirmCardPayment(clientSecret, {
+            payment_method: {
+                card: cardElement
+            }
+        });
+
+        if (error) {
+           
+            alert(error.message);
+        } else {
+            if (paymentIntent.status === 'succeeded') {
+                
+                alert('Paiement réussi!');
+                window.location.href = 'https://localhost:44334/'; 
+            }
+        }
+    });
+</script>

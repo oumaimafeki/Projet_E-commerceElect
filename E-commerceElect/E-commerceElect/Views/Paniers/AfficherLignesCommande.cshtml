@@ -1,0 +1,70 @@
+﻿@model IEnumerable<E_commerceElect.Models.LignePanier>
+
+@{
+    ViewBag.Title = "Lignes de Commande";
+    decimal totalPrix = 0;
+    foreach (var item in Model)
+    {
+        totalPrix += item.Article.Prix * item.Quantity;
+    }
+}
+
+<h2>Contenu de panier</h2>
+
+@if (!Model.Any())
+{
+    <p>Votre panier est vide.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Article</th>
+                <th>Quantité</th>
+                <th>Actions</th>
+                <th></th>
+                <th></th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ligne in Model)
+            {
+                <tr>
+                    <td>@ligne.Article.Nom</td> 
+                    <td>@ligne.Quantity</td>
+                    <td>
+                        <form asp-action="SupprimerLignePanier" asp-controller="Paniers" method="post">
+                            <input type="hidden" name="lignePanierId" value="@ligne.Id" />
+                            <button type="submit" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i></button>
+                        </form>
+                        <td>
+                        <form asp-action="IncrementerLignePanier" asp-controller="Paniers" method="post">
+                            <input type="hidden" name="lignePanierId" value="@ligne.Id" />
+                            <button type="submit" class="btn btn-outline-primary">+</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="DecrementerLignePanier" asp-controller="Paniers" method="post">
+                            <input type="hidden" name="lignePanierId" value="@ligne.Id" />
+                            <button type="submit" class="btn btn-outline-warning">-</button>
+                        </form>
+                    </td>
+                   
+                   
+                </tr>
+            }
+           
+
+        </tbody>
+    </table>
+        <input type="text" value="@totalPrix">
+
+            <form asp-action="Commander" asp-controller="Paniers" method="post">
+                <input type="hidden" name="totalPrix" value="@totalPrix" />
+
+                <button type="submit" class="btn btn-outline-success">Commander</button>
+             </form>
+}
